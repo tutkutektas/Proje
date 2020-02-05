@@ -12,8 +12,13 @@ namespace ConsoleApp1
         static void Main(string[] args)
         {
             IWebDriver driver = new FirefoxDriver();
-            string link = @"https://www.n11.com/";
+            string link = @"http://www.n11.com/";
             driver.Navigate().GoToUrl(link);
+
+            driver.FindElement(By.ClassName("btnSignIn")).Click();
+            driver.FindElement(By.Id("email")).SendKeys("tutkutektas@hot.com");
+            driver.FindElement(By.Id("password")).SendKeys("tutkutektaspassword");
+            driver.FindElement(By.Id("loginButton")).Click();
 
         }
     }

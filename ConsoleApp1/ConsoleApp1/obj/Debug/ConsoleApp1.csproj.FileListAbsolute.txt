@@ -8,3 +8,5 @@ C:\Users\tutku\OneDrive\Belgeler\GitHub\Proje\ConsoleApp1\ConsoleApp1\obj\Debug\
 C:\Users\tutku\OneDrive\Belgeler\GitHub\Proje\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CopyComplete
 C:\Users\tutku\OneDrive\Belgeler\GitHub\Proje\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
 C:\Users\tutku\OneDrive\Belgeler\GitHub\Proje\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
+C:\Users\tutku\OneDrive\Belgeler\GitHub\Proje\ConsoleApp1\ConsoleApp1\bin\Debug\WebDriver.Support.dll
+C:\Users\tutku\OneDrive\Belgeler\GitHub\Proje\ConsoleApp1\ConsoleApp1\bin\Debug\WebDriver.Support.xml
