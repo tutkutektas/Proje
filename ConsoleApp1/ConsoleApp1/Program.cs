@@ -32,7 +32,22 @@ namespace ConsoleApp1
             //3. kısımda 2 tane div var biz ortadaki olan div[2] yi seçtik. Son kısımda 4 div var. en altta sayfa geçişlerini sağlayan 4.Divi seçtik
             //4.Divin içindende sayfa adlar 'a' ile sıralanmış o yüzden a2 yi seçtik.
             driver.FindElement(By.XPath(".//*[@id='p-402919973']/div/a")).Click();
-            
+
+            //Son Kısım Sepet işlemleri
+            driver.FindElement(By.ClassName("btnAddBasket")).Click();
+            driver.FindElement(By.ClassName("myBasket")).Click();
+            driver.FindElement(By.ClassName("spinnerArrow")).Click();
+            driver.FindElement(By.ClassName("removeProdData")).Click();
+      
+
+
+
+
+
+
+
+
+
 
 
 
